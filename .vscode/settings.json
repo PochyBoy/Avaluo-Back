@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6d9982b7-b2fb-4dbd-b751-6e75e0640b29/microsoft.web/sites/subscriptions/6d9982b7-b2fb-4dbd-b751-6e75e0640b29/resourceGroups/Avaluo/providers/Microsoft.Web/sites/Apiavaluo",
+    "appService.deploySubpath": "."
+}
